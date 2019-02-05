@@ -1,0 +1,149 @@
+c:\users\casa\documents\visual studio 2013\Projects\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe.config
+c:\users\casa\documents\visual studio 2013\Projects\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe
+c:\users\casa\documents\visual studio 2013\Projects\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.pdb
+c:\users\casa\documents\visual studio 2013\Projects\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csprojResolveAssemblyReference.cache
+c:\users\casa\documents\visual studio 2013\Projects\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.baml
+c:\users\casa\documents\visual studio 2013\Projects\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.g.cs
+c:\users\casa\documents\visual studio 2013\Projects\Oversound_TCC\Oversound_TCC\obj\Debug\App.g.cs
+c:\users\casa\documents\visual studio 2013\Projects\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC_MarkupCompile.cache
+c:\users\casa\documents\visual studio 2013\Projects\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.g.resources
+c:\users\casa\documents\visual studio 2013\Projects\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.Properties.Resources.resources
+c:\users\casa\documents\visual studio 2013\Projects\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csproj.GenerateResource.Cache
+c:\users\casa\documents\visual studio 2013\Projects\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.exe
+c:\users\casa\documents\visual studio 2013\Projects\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.pdb
+E:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe.config
+E:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.exe
+J:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe.config
+J:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.exe
+J:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csprojResolveAssemblyReference.cache
+J:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.baml
+J:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.g.cs
+J:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\App.g.cs
+J:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC_MarkupCompile.cache
+J:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.g.resources
+J:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.Properties.Resources.resources
+J:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csproj.GenerateResource.Cache
+E:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe.config
+E:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.exe
+E:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csprojResolveAssemblyReference.cache
+E:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.baml
+E:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.g.cs
+E:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\App.g.cs
+E:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC_MarkupCompile.cache
+E:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.g.resources
+E:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.Properties.Resources.resources
+E:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csproj.GenerateResource.Cache
+C:\Users\Casa\Desktop\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe.config
+C:\Users\Casa\Desktop\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.exe
+C:\Users\Casa\Desktop\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Desktop\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.baml
+C:\Users\Casa\Desktop\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.g.cs
+C:\Users\Casa\Desktop\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\App.g.cs
+C:\Users\Casa\Desktop\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC_MarkupCompile.cache
+C:\Users\Casa\Desktop\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.g.resources
+C:\Users\Casa\Desktop\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.Properties.Resources.resources
+C:\Users\Casa\Desktop\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csproj.GenerateResource.Cache
+C:\Users\Casa\Desktop\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe
+C:\Users\Casa\Desktop\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.pdb
+C:\Users\Casa\Desktop\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.pdb
+J:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.pdb
+J:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe
+J:\ \TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.pdb
+E:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.pdb
+E:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe
+E:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.pdb
+E:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csprojResolveAssemblyReference.cache
+E:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.baml
+E:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.g.cs
+E:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\App.g.cs
+E:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC_MarkupCompile.cache
+E:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.g.resources
+E:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.Properties.Resources.resources
+E:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csproj.GenerateResource.Cache
+J:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe.config
+J:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.exe
+J:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.pdb
+J:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe
+J:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.pdb
+J:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csprojResolveAssemblyReference.cache
+J:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.baml
+J:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.g.cs
+J:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\App.g.cs
+J:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC_MarkupCompile.cache
+J:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.g.resources
+J:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.Properties.Resources.resources
+J:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csproj.GenerateResource.Cache
+F:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe.config
+F:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.exe
+F:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.pdb
+K:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe.config
+K:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.exe
+K:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.pdb
+K:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csprojResolveAssemblyReference.cache
+K:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.baml
+K:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.g.cs
+K:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\App.g.cs
+K:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC_MarkupCompile.cache
+K:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.g.resources
+K:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.Properties.Resources.resources
+K:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csproj.GenerateResource.Cache
+K:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe
+K:\TCC AGORA VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.pdb
+C:\Users\Casa\Desktop\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe.config
+C:\Users\Casa\Desktop\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.exe
+C:\Users\Casa\Desktop\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.pdb
+C:\Users\Casa\Desktop\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe
+C:\Users\Casa\Desktop\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.pdb
+C:\Users\Casa\Desktop\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Desktop\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.baml
+C:\Users\Casa\Desktop\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.g.cs
+C:\Users\Casa\Desktop\Oversound_TCC\Oversound_TCC\obj\Debug\App.g.cs
+C:\Users\Casa\Desktop\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC_MarkupCompile.cache
+C:\Users\Casa\Desktop\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.g.resources
+C:\Users\Casa\Desktop\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.Properties.Resources.resources
+C:\Users\Casa\Desktop\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csproj.GenerateResource.Cache
+C:\Users\CA76\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe.config
+C:\Users\CA76\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.exe
+C:\Users\CA76\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.pdb
+C:\Users\CA76\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe
+C:\Users\CA76\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.pdb
+C:\Users\CA76\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csprojResolveAssemblyReference.cache
+C:\Users\CA76\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.baml
+C:\Users\CA76\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.g.cs
+C:\Users\CA76\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\App.g.cs
+C:\Users\CA76\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC_MarkupCompile.cache
+C:\Users\CA76\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.g.resources
+C:\Users\CA76\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.Properties.Resources.resources
+C:\Users\CA76\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csproj.GenerateResource.Cache
+D:\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe.config
+D:\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.exe
+D:\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.pdb
+D:\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csprojResolveAssemblyReference.cache
+D:\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.baml
+D:\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.g.cs
+D:\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\App.g.cs
+D:\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC_MarkupCompile.cache
+D:\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.g.resources
+D:\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.Properties.Resources.resources
+D:\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csproj.GenerateResource.Cache
+D:\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe
+D:\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.pdb
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe.config
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.exe
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.pdb
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.exe
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\bin\Debug\Oversound_TCC.pdb
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Login.baml
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.baml
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Login.g.cs
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\MainWindow.g.cs
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\App.g.cs
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC_MarkupCompile.cache
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.g.resources
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.Properties.Resources.resources
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Oversound_TCC.csproj.GenerateResource.Cache
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Cadastro.baml
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Cadastro.g.cs
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Administrador.baml
+C:\Users\Casa\Desktop\TCC AGORA VAI VAI\Oversound_TCC\Oversound_TCC\obj\Debug\Administrador.g.cs

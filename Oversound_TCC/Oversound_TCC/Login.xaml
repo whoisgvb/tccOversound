@@ -1,0 +1,38 @@
+﻿<Window x:Name="FrmLogin" x:Class="Oversound_TCC.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login" Height="400" Width="300" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Icon="Resources/favicon.ico">
+    <Grid Name="GridLogin" HorizontalAlignment="Left" Width="300" Background="WhiteSmoke" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Rectangle x:Name="RmenuLogin" Fill="#FF36B0F6" HorizontalAlignment="Left" Height="26" VerticalAlignment="Top" Width="300" MouseLeftButtonDown="Rectangle_MouseLeftButtonDown"/>
+        <Rectangle x:Name="RfecharLogin" Fill="#FFFF4F4F" HorizontalAlignment="Left" Height="26" Margin="270,0,0,0" VerticalAlignment="Top" Width="30" Visibility="Collapsed"/>
+        <Image x:Name="btnFecharLogin" HorizontalAlignment="Left" Height="19" Margin="277,2,0,0" VerticalAlignment="Top" Width="19" Source="Resources/fechar.png" RenderTransformOrigin="0.5,0.5" MouseLeftButtonDown="Image_MouseLeftButtonDown" MouseMove="btnFecharLogin_MouseMove" MouseLeave="btnFecharLogin_MouseLeave" Cursor="Hand">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Label Content=" Nome de usuário " HorizontalAlignment="Left" Margin="96,132,0,0" VerticalAlignment="Top" Name="lblLogin"/>
+        <PasswordBox HorizontalAlignment="Left" Margin="63,220,0,0" TabIndex="2" VerticalAlignment="Top" PasswordChar="×"  Width="171" Name="txtSenha" Height="22" />
+        <Label Content="Senha" HorizontalAlignment="Left" Margin="128,189,0,0" VerticalAlignment="Top" Name="lblSenha" RenderTransformOrigin="0.485,0.591"/>
+        <TextBox HorizontalAlignment="Left" Height="22" Margin="63,163,0,0"  TabIndex="1" TextWrapping="Wrap" Name="txtLogin" Text="" VerticalAlignment="Top" Width="171"/>
+        <Rectangle Name="Rcadastrar" Fill="#FFFF4F4F" HorizontalAlignment="Left"   Margin="100,289,0,0" VerticalAlignment="Top" Width="100" Height="22"/>
+        <Label Content="      Cadastrar" ToolTip="Cadastrar" TabIndex="4" HorizontalAlignment="Center" Margin="100,285,74,0" VerticalAlignment="Top" x:Name="lblCadastrar" Foreground="White" BorderBrush="#FF50BDFB" Background="{x:Null}" Width="126" MouseMove="Cadastrar_MouseMove" RenderTransformOrigin="0.484,0.962" Height="33" MouseLeave="lblCadastrar_MouseLeave" MouseLeftButtonDown="lblCadastrar_MouseLeftButtonDown" TextOptions.TextHintingMode="Animated" Cursor="Hand"/>
+        <Image  Name="Logo" HorizontalAlignment="Left" Height="45" Margin="52,82,0,0" VerticalAlignment="Top" Width="196" Source="Resources/OverSound.png"/>
+        <Rectangle x:Name="Rface1" Fill="#FF69F7AF" HorizontalAlignment="Left" Height="3" VerticalAlignment="Top" Width="130" MouseLeftButtonDown="Rectangle_MouseLeftButtonDown" Margin="85,385,0,0" Visibility="Collapsed"/>
+        <Label Name="lblFace" Content="Visite Nosso Facebook" HorizontalAlignment="Left" Margin="85,364,0,0" VerticalAlignment="Top" Width="130" Foreground="#FF666161" Background="{x:Null}" MouseMove="lblFace_MouseMove" MouseLeave="lblFace_MouseLeave" MouseLeftButtonDown="lblFace_MouseLeftButtonDown"/>
+        <Rectangle x:Name="Rface2" Fill="#FF69F7AF" HorizontalAlignment="Left" Height="3" VerticalAlignment="Top" Width="130" MouseLeftButtonDown="Rectangle_MouseLeftButtonDown" Margin="85,368,0,0" Visibility="Collapsed"/>
+        <Label Name="lblTopo" Content="Bem Vindo" HorizontalAlignment="Left" Margin="114,0,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="White" FontWeight="Bold"/>
+        <Image Name="LogoTopo" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="14" Source="Resources/logo.png" Margin="1,5,0,0"/>
+        <Rectangle x:Name="RLimpar" Fill="#FF69F7AF" HorizontalAlignment="Left" Height="35" Width="36" Margin="132,321,0,0" RadiusY="18" RadiusX="18" VerticalAlignment="Top" Visibility="Collapsed"/>
+        <Image  Name="Limpar" Height="30" Margin="135,323,135,0" VerticalAlignment="Top" Source="Resources/limpar.png" MouseMove="Limpar_MouseMove" MouseLeave="Limpar_MouseLeave" StretchDirection="DownOnly" Stretch="UniformToFill" Cursor="Hand" ToolTip="Limpar Campos" MouseLeftButtonDown="Limpar_MouseLeftButtonDown"/>
+        <Rectangle x:Name="Rentrar" Fill="#FFFF4F4F" HorizontalAlignment="Left"   Margin="100,251,0,0" VerticalAlignment="Top" Width="100" Height="22"/>
+        <Label Content="         Entrar"  HorizontalAlignment="Center" TabIndex="3" Margin="100,247,85,0" VerticalAlignment="Top" x:Name="lblEntrar" Foreground="White" BorderBrush="#FF50BDFB" Background="{x:Null}" Width="115" RenderTransformOrigin="0.484,0.962" Height="26" Cursor="Hand" TextOptions.TextHintingMode="Animated" VerticalContentAlignment="Center" ScrollViewer.VerticalScrollBarVisibility="Disabled" MouseLeave="lblEntrar_MouseLeave" MouseMove="lblEntrar_MouseMove" MouseLeftButtonDown="lblEntrar_MouseLeftButtonDown"/>
+    </Grid>
+</Window>

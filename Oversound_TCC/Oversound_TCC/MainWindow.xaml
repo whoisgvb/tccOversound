@@ -1,0 +1,79 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Name="OverSound" x:Class="Oversound_TCC.MainWindow"
+        Title="OverSound" Height="455" Width="800" Icon="Resources/favicon.ico" ResizeMode="NoResize" WindowStyle="None" MouseLeftButtonDown="Window_MouseLeftButtonDown" HorizontalAlignment="Center" WindowStartupLocation="CenterScreen">
+    <Grid x:Name="gridOSmusicPlayer" HorizontalAlignment="Left" Width="800" Background="#FFCFCFCF" Height="458" VerticalAlignment="Top" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="106*"/>
+            <RowDefinition Height="123*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="401*"/>
+            <ColumnDefinition Width="399*"/>
+        </Grid.ColumnDefinitions>
+        <MediaElement Margin="0,0,0,68" x:Name="OSmusicPlayer" LoadedBehavior="Manual" UnloadedBehavior="Close"
+        	MediaOpened="OSmusicPlayer_MediaOpened" MediaEnded="OSmusicPlayer_MediaEnded" Volume="{Binding Value, ElementName=SliderVolume}" Grid.ColumnSpan="2" Grid.RowSpan="2" />
+        <Rectangle x:Name="MenuCima" Fill="#FF51BDE6" HorizontalAlignment="Left" Height="41" VerticalAlignment="Top" Width="804" Margin="-4,0,0,0" Grid.ColumnSpan="2"/>
+        <ListBox x:Name="ListaDeReproducao" FontFamily="Arial" Foreground="#000000" HorizontalAlignment="Left" Height="328" Margin="10,50,0,0" VerticalAlignment="Top" Width="780"  BorderBrush="{x:Null}" Background="White" SelectionChanged="ListaDeReproducao_SelectionChanged"
+    		Drop="ListadeReproducao_Drop" AllowDrop="True" DragEnter="ListBox_DragEnter"  SelectedIndex="1" MouseDoubleClick="ListaDeReproducao_MouseDoubleClick" Grid.ColumnSpan="2" Grid.RowSpan="2" />
+        <TextBlock x:Name="TituloSuperior" HorizontalAlignment="Center" Margin="356,10,353,0" TextWrapping="Wrap" Text="OverSound 1.0" VerticalAlignment="Top" FontSize="13" FontWeight="Bold" FrameworkElement.FlowDirection="RightToLeft" Grid.ColumnSpan="2" Foreground="White"/>
+        <Rectangle x:Name="Rvoltar" Fill="#FF51BDE6" HorizontalAlignment="Left" Height="30" Margin="38,194,0,0" VerticalAlignment="Top" Width="30" RadiusY="21" RadiusX="21" Opacity="0.01" Grid.Row="1"/>
+        <Image x:Name="imgRecuar" Source="Resources/recuar2.png" ToolTip="Voltar" Margin="34,199,333,27" MouseLeave="imgRecuar_MouseLeave" MouseMove="imgRecuar_MouseMove" MouseLeftButtonDown="BtnVoltar_Click" Grid.Row="1"/>
+        <Rectangle x:Name="Ravancar" Fill="#FF51BDE6" HorizontalAlignment="Left" Height="30" Margin="108,194,0,0" VerticalAlignment="Top" Width="30" RadiusY="21" RadiusX="21" Opacity="0.01" Grid.Row="1"/>
+        <Image x:Name="imgAvancar" Source="Resources/avançar2.png" ToolTip="Avançar" Margin="109,199,260,27" MouseLeftButtonDown="BtnAvancar_Click" MouseLeave="imgAvancar_MouseLeave" MouseMove="imgAvancar_MouseMove" Grid.Row="1" />
+        <Image x:Name="imgIcone" Margin="16,7,367,179" Source="Resources/logo.png"  ToolTip="www.oversound.com.br"/>
+        <Slider x:Name="SlrMusica" HorizontalAlignment="Left" Margin="165,198,0,0" VerticalAlignment="Top" Width="458" Background="{x:Null}" 
+                BorderBrush="{x:Null}" Foreground="{x:Null}" Cursor="Hand" OpacityMask="White" MouseLeftButtonUp="SlrMusica_MouseLeftButtonUp"
+                Thumb.DragStarted="SlrMusica_DragStarted" Thumb.DragCompleted="SlrMusica_DragCompleted"  IsMoveToPointEnabled="True" Grid.ColumnSpan="2" Grid.Row="1" >
+            <Slider.BindingGroup>
+                <BindingGroup/>
+            </Slider.BindingGroup>
+        </Slider>
+        <Rectangle x:Name="Raleatorio" Fill="#FF51BDE6" HorizontalAlignment="Left" Height="24" Margin="227,195,0,0" VerticalAlignment="Top" Width="24" RadiusY="19" RadiusX="19" Opacity="0.01" Grid.Column="1" Grid.Row="1"/>
+        <Image x:Name="imgAleatorio" RenderTransformOrigin="0,0.5" Source="Resources/aleatório.png" ToolTip="Modo Aleatório" Margin="232,200,153,32" MouseMove="imgAleatorio_MouseMove" MouseLeave="imgAleatorio_MouseLeave" MouseLeftButtonDown="imgAleatorio_MouseLeftButtonDown" Grid.Column="1" Grid.Row="1">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Rectangle x:Name="Rrepetir" Fill="#FF51BDE6" HorizontalAlignment="Left" Height="24" Margin="254,195,0,0" VerticalAlignment="Top" Width="24" RadiusY="19" RadiusX="19" Opacity="0.01" Grid.Column="1" Grid.Row="1"/>
+        <Rectangle x:Name="Rvolume" Fill="#FF51BDE6" HorizontalAlignment="Left" Height="24" Margin="280,195,0,0" VerticalAlignment="Top" Width="24" RadiusY="19" RadiusX="19" Opacity="0.01" Grid.Column="1" Grid.Row="1"/>
+        <Rectangle x:Name="RPrincipal" HorizontalAlignment="Left" Height="23" Margin="75,198,0,0" VerticalAlignment="Top" Width="26" Fill="#FF51BDE6" Opacity="0.01" Grid.Row="1"/>
+        <Slider x:Name="SliderVolume" HorizontalAlignment="Left" Margin="302,0,0,30" VerticalAlignment="Bottom" Width="73" Background="{x:Null}"
+                BorderBrush="{x:Null}" Foreground="{x:Null}" Cursor="Hand" Maximum="1" SmallChange="1" TickFrequency="0.1" Value="0.5" MouseMove="SliderVolume_MouseMove" MouseLeave="SliderVolume_MouseLeave" Grid.Column="1" Grid.Row="1">
+            <Slider.BindingGroup>
+                <BindingGroup/>
+            </Slider.BindingGroup>
+        </Slider>
+        <Image x:Name="imgPause" Source="Resources/pause.png" Margin="68,190,293,19" MouseLeftButtonDown="BtnPause_Click" MouseLeave="imgPause_MouseLeave" MouseMove="imgPause_MouseMove" Grid.Row="1"/>
+        <Image x:Name="imgPlay" Source="Resources/play.png" MouseMove="imgPlay_MouseMove" Margin="66,189,291,19" MouseLeftButtonDown="BtnPlay_Click" MouseLeave="imgPlay_MouseLeave" Grid.Row="1"/>
+        <Rectangle x:Name="Rfechar" Fill="#FFFF4F4F" HorizontalAlignment="Left" Height="20" Margin="376,0,0,0" VerticalAlignment="Top" Width="23" Opacity="0.01" Grid.Column="1"/>
+        <Image x:Name="btnFechar" HorizontalAlignment="Left" Height="14" Margin="381,2,0,0" VerticalAlignment="Top" Width="14" Source="Resources/fechar.png" MouseLeftButtonDown="btnFechar_MouseLeftButtonDown" MouseMove="btnFechar_MouseMove" MouseLeave="btnFechar_MouseLeave" ToolTip="Sair" Cursor="Hand" Grid.Column="1"/>
+        <Rectangle x:Name="Rminizar" Fill="#FFACACAC" HorizontalAlignment="Left" Height="20" Margin="353,0,0,0" VerticalAlignment="Top" Width="23" Opacity="0.01" Grid.Column="1"/>
+        <Image x:Name="btnMinimizar" HorizontalAlignment="Left" Height="14" Margin="357,2,0,0" VerticalAlignment="Top" Width="14" Source="Resources/minimizar.png" MouseLeftButtonDown="btnMinimizar_MouseLeftButtonDown" MouseLeave="btnMinimizar_MouseLeave" MouseMove="btnMinimizar_MouseMove" ToolTip="Minimizar" Cursor="Hand" Grid.Column="1"/>
+        <ProgressBar x:Name="PrgMusica" Value="{Binding Value, ElementName=SlrMusica}" HorizontalAlignment="Left" Height="7" Margin="0,169,0,0" VerticalAlignment="Top" Width="800" Thumb.DragStarted="SlrMusica_DragStarted" Thumb.DragCompleted="SlrMusica_DragCompleted"  Foreground="#FF51BDE6" Background="#FFCFCFCF" BorderBrush="{x:Null}" Grid.ColumnSpan="2" Grid.Row="1"  />
+        <Image x:Name="imgAleatorioAtivado" RenderTransformOrigin="0,0.5" Source="Resources/aleatórioATIVADO.png" ToolTip="Modo Aleatório" Margin="232,200,153,32" MouseMove="imgAleatorio_MouseMove" MouseLeave="imgAleatorio_MouseLeave" Visibility="Collapsed" MouseLeftButtonDown="imgAleatorioAtivado_MouseLeftButtonDown" Grid.Column="1" Grid.Row="1">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="imgRepetir" Source="Resources/repetir.png" ToolTip="Repetir" Cursor="Hand" MouseMove="imgRepetir_MouseMove" Margin="259,200,126,32" MouseLeave="imgRepetir_MouseLeave" MouseLeftButtonDown="imgRepetir_MouseLeftButtonDown" Grid.Column="1" Grid.Row="1"  />
+        <Image x:Name="imgRepetirAtivado" Source="Resources/repetirATIVADO.png" ToolTip="Repetir" Cursor="Hand" MouseMove="imgRepetir_MouseMove" Margin="259,200,126,32" MouseLeave="imgRepetir_MouseLeave" MouseLeftButtonDown="imgRepetirAtivado_MouseLeftButtonDown" Visibility="Collapsed" Grid.Column="1" Grid.Row="1" />
+        <Image x:Name="imgVolume" Source="Resources/volume.png" Margin="285,200,99,32" MouseLeftButtonDown="imgVolume_MouseLeftButtonDown" Grid.Column="1" Grid.Row="1"/>
+        <Image x:Name="Balao" HorizontalAlignment="Left" Height="116" Margin="-4,28,0,0" VerticalAlignment="Top" Width="168" Source="Resources/balao.png" MouseLeftButtonDown="Balao_MouseLeftButtonDown"/>
+        <TextBlock x:Name="txtBalao" HorizontalAlignment="Left" Margin="8,46,0,0" TextWrapping="Wrap"  TextAlignment="Center" Text="Para escutar, arraste músicas para o programa" VerticalAlignment="Top" Height="35" Width="142" Foreground="White" MouseLeftButtonDown="txtBalao_MouseLeftButtonDown" RenderTransformOrigin="0.5,0.5"/>
+        <Image x:Name="imgAvancar_aleatório" Source="Resources/avançar2.png" ToolTip="Avançar" Margin="109,199,260,27" MouseLeftButtonDown="imgAvancar_aleatório_MouseLeftButtonDown" MouseLeave="imgAvancar_MouseLeave" MouseMove="imgAvancar_MouseMove" Grid.Row="1" Visibility="Collapsed" />
+        <Button x:Name="btnLimpa" Content="Limpar Músicas" HorizontalAlignment="Left" Margin="47,9,0,0" VerticalAlignment="Top" Width="91" Background="#FFFF5050" BorderBrush="{x:Null}" Click="btnLimpa_Click" Foreground="White"/>
+        <TextBlock x:Name="lblTempo" Text="00:00                                                                                         00:00" HorizontalAlignment="Left"  Margin="217,211,0,0" VerticalAlignment="Top" Width="366" Height="24" Grid.Row="1" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>
